@@ -1,6 +1,6 @@
 # :movie_camera: Netflix
 
-##### Interface da Netflix feita utilizando HTML, CSS e JavaScript. Nessa recriação também foi utilizada a biblioteca jQuery.
+Interface da Netflix feita utilizando HTML, CSS e JavaScript. Nessa recriação também foi utilizada a biblioteca jQuery.
 
 
 ## :rocket: Em ação
